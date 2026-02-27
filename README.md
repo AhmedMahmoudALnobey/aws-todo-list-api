@@ -3,7 +3,7 @@
 **مشروع تخرج AWS Solutions Architect - Associate**
 
 ## Solution Architecture Diagram
-![Architecture Diagram](ddb-crud.png)
+<image-card alt="Architecture Diagram" src="ddb-crud.png" ></image-card>
 
 ## الخدمات المستخدمة
 - Amazon API Gateway (HTTP API)
